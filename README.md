@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://graceful-daifuku-a9cc0e.netlify.app/](https://graceful-daifuku-a9cc0e.netlify.app/)
 
-- 💬 Ask me about **MERN, AI**
+- 💬 Ask me about **MERN, AI**,
 
 - 📫 How to reach me **brahmeshwarthakur1@gamil.com**
 
