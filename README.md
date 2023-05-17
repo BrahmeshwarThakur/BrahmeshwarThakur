@@ -1,4 +1,4 @@
-![MasterHead](https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif)
+<!-- ![MasterHead](https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif) -->
 <h1 align="center">Hi 👋, I'm Brahmeshwar Thakur</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47pgcblo3ziow9z4ixeng552b8w8ow4s9min0wgidv&ep=v1_gifs_search&rid=giphy.gif&ct=g">
